@@ -1,9 +1,10 @@
 import React from 'react';
 import Inputs from './Inputs.js'
+import HttpExample from './HttpExample.js'
 
 const Home = () => {
    return (
-      <Inputs />
+      <HttpExample />
    )
 }
 export default Home
